@@ -1,5 +1,6 @@
 # GoogleMapsProject
-
+	1: Create a Practice Set
+		This practice set will help student to integrate Google Maps using Angular framework. It uses Angular Google Maps npm package.
 ## Documentation: https://angular-maps.com/guides/getting-started/
 
 ## 1. Install angular CLI
